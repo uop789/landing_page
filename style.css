@@ -1,0 +1,89 @@
+body, div, h1,h4{
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    height: 48px;
+    background-color: #4F4D53;
+    line-height: 60px;
+}
+
+header > img {
+    margin-left: 25%;
+}
+
+#main {
+    margin-bottom: 100px;
+}
+#banner {
+    background-image: url("./media/img_hero.jpg");
+    height: 550px;
+    background-size: cover;
+    text-align: center;
+    line-height: 550px;
+}
+#banner h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 100px;
+    font-weight: 900;
+    color: #4F4D53;
+}
+
+.faceContainer {
+    margin-top: -102px;
+    text-align: center;
+}
+
+.faceContainer > img {
+    margin: 0 50px;
+}
+
+
+h2 {
+   font-family: 'Roboto', sans-serif;
+   font-size: 64px;
+   font-weight: 900;
+   color: #E8BE02;
+   text-align: center;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #4F4D53;
+    width: 780px;
+    text-align: center;
+    text-indent: 20px;
+    margin: 0 auto;
+}
+
+#yellowBand {
+border-top: 12px solid #E8BE02;
+}
+
+#footer {
+    height: 320px;
+    background: #4F4D53;
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    color: #E8BE02;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.ftContainer {
+    margin: 0 80px;
+}
