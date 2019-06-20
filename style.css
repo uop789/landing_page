@@ -13,17 +13,17 @@ header > img {
     margin-left: 25%;
 }
 
-#main {
+.main {
     margin-bottom: 100px;
 }
-#banner {
+.banner {
     background-image: url("./media/img_hero.jpg");
     height: 550px;
     background-size: cover;
     text-align: center;
     line-height: 550px;
 }
-#banner h1 {
+.banner h1 {
     font-family: 'Roboto', sans-serif;
     font-size: 100px;
     font-weight: 900;
@@ -59,11 +59,11 @@ p {
     margin: 0 auto;
 }
 
-#yellowBand {
+.yellowBand {
 border-top: 12px solid #E8BE02;
 }
 
-#footer {
+.footer {
     height: 320px;
     background: #4F4D53;
     display: flex;
